@@ -3,12 +3,23 @@
 # **Introduction**
 
 # **Data**
-Link: 
-* [Image inpainting](https://drive.google.com/file/d/1TKpxfm-YK1rLkG5-whFXcg-Oo_a-DPNs/view?usp=share_link)
-# **Methods**
-## **1. Objects segmentation**
-## **2. Objects remove**
+## 1. Human segmentation
+ * [Supervisely person dataset](https://github.com/supervisely-ecosystem/persons)
+## 2. Image inpainting 
+
+# **Pipelines**
+## 1. Human segmentation
+* YOLOv8:
+
+    ```
+    pip install ultralytics
+    or 
+    git clone https://github.com/ultralytics/ultralytics
+    ``` 
+
+## 2. Image inpainting
 
 # **Deploy**
 
 # **References**
+* [Yolov8](https://github.com/ultralytics/ultralytics)
