@@ -1,5 +1,9 @@
 # **App removing objects**
 
+# Members
+* Dinh Hoang Lam
+* Ngo Thanh Phuc
+
 # **Introduction**
 
 # **Data**
