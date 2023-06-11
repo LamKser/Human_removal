@@ -1,4 +1,4 @@
-# **App removing objects**
+# **Human removal**
 
 # Members
 * Dinh Hoang Lam
